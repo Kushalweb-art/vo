@@ -1,0 +1,11 @@
+ID,First Name,Last Name,Email,Phone,Position,Department,Salary
+1,John,Doe,john.doe@example.com,123-456-7890,Software Engineer,IT,80000
+2,Jane,Smith,jane.smith@example.com,234-567-8901,Product Manager,Marketing,95000
+3,Bob,Johnson,bob.johnson@example.com,345-678-9012,Data Analyst,IT,70000
+4,Alice,Williams,alice.williams@example.com,456-789-0123,HR Manager,HR,75000
+5,Alice,Brown,charlie.brown@example.com,567-890-1234,Sales Representative,Sales,60000
+6,David,Wilson,david.wilson@example.com,678-901-2345,UX Designer,Design,85000
+7,Emily,Moore,emily.moore@example.com,789-012-3456,Marketing Specialist,Marketing,65000
+8,Michael,Taylor,michael.taylor@example.com,890-123-4567,Software Developer,IT,90000
+9,Sarah,Lee,sarah.lee@example.com,901-234-5678,Accountant,Finance,55000
+10,James,Miller,james.miller@example.com,012-345-6789,Customer Support,Support,50000
